@@ -1,0 +1,79 @@
+h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 300%;
+    margin: 50px 100px 50px 50px;
+    text-shadow: 2px 2px 5px red;
+  }
+
+  h2{
+    color: black;
+    font-family:papyrus;
+    font-size: 300%;
+    text-shadow: 2px 2px 5px rgb(163, 84, 208);
+  }
+  div {
+    padding: 25px 50px 75px 100px;
+  }
+  p {
+    color: white;
+    font-family: papyrus;
+    font-size: 160%;
+  }
+
+  ul{
+    color: white;
+    font-family:papyrus;
+    font-size: 120%;
+  }
+  b{
+    text-shadow:2px 2px 5px black;
+  }
+
+
+  .button {
+    border: none;
+    color: white;
+    padding: 32px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 60px;
+    margin: 15px 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .button1 {
+     
+    color: black; 
+    border: 2px solid #e6e06b;
+    opacity:0.8;
+  }
+  
+  .button1:hover {
+    background-color: #e6e06b;
+    color: white;
+  }
+  .banner-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Dance.png");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+ body{
+  background-color: rgb(67, 108, 125);
+ }
+
+ caption{
+    font-family:papyrus;
+    font-size:150%;
+    color:white;
+    text-shadow:3px 3px 5px black;
+ }
+ tr{
+    font-family:papyrus;
+    font-size:130%;
+    color: white;
+ }
